@@ -1,6 +1,0 @@
-flask
-tensorflow-cpu
-gunicorn
-numpy
-datetime
-keras
